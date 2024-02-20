@@ -135,7 +135,7 @@
         {
           "id": "4",
           "tool_name": "Camara Preview",
-          "is_show": "true"
+          "is_show": "false"
         }
       ]
     }
