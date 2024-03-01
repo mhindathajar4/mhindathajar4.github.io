@@ -39,66 +39,38 @@
         "localPrivacyPolicy": "https://camappscctv.github.io/privacy.html",
         "localBanner": [
             {
-                "bannerLink": "https://play.google.com/store/apps/details?id=com.ludo.king",
-                "bannerImage": "https://codexhitenp.github.io/banner1.png"
-            },
-            {
-                "bannerLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
-                "bannerImage": "https://i.ibb.co/r27B8Vp/Navy-Blue-Black-Friday-Etsy-Banner-Made-with-Poster-My-Wall.jpg"
+                "bannerLink": "",
+                "bannerImage": ""
             }
         ],
         "localNative": [
             {
-                "nativeLink": "https://play.google.com/store/apps/details?id=com.protectstar.antispy.android",
-                "nativeImage": "https://uploads-ssl.webflow.com/63f53af6e7d3ad6807222368/644a04d84d0a0b0c0989993c_P_EFt0Y7fve8ARoGGiq2A7Nb-64Ky5Y3zgeIuAliQgiOScwSrCTXCRJVhatRylzPFjXQmhaJVoSj1rXeOGC0lZcPTD1Ok-qguKEiRisFVj_G24y-L372WWPB4ZOUye5nh97spOofwKLHcTEtlg.gif",
-                "nativeTitle": "Anti Spy Detector - Spyware",
-                "nativeSubTitle": "Android devices have become an integral part of our lives. As our use of android devices grows, so the risk of spyware & malware attacks increases.",
-                "nativeLogo": "https://play-lh.googleusercontent.com/-RgY7W2BOari84d9BhoshEFx42LKoKncmkVGhCOiyfRzDYv6ic28Qzv913BGrsTB0Bg=w240-h480-rw",
+                "nativeLink": "",
+                "nativeImage": "",
+                "nativeTitle": "",
+                "nativeSubTitle": "",
+                "nativeLogo": "",
                 "nativeButtonTitle": "Install"
-            },
-            {
-                "nativeLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
-                "nativeImage": "https://uploads-ssl.webflow.com/63f53af6e7d3ad6807222368/644a04d84d0a0b0c0989993c_P_EFt0Y7fve8ARoGGiq2A7Nb-64Ky5Y3zgeIuAliQgiOScwSrCTXCRJVhatRylzPFjXQmhaJVoSj1rXeOGC0lZcPTD1Ok-qguKEiRisFVj_G24y-L372WWPB4ZOUye5nh97spOofwKLHcTEtlg.gif",
-                "nativeTitle": "Master Speed Test Fast",
-                "nativeSubTitle": "Typing Master application helps to how fast you with a typing with different typing test. Choose small & large paragraph given here, so you can day to day improve your typing speed.",
-                "nativeLogo": "https://play-lh.googleusercontent.com/SY4YQwnuxGhxUxCSlSRyflqxLdk6Npk6-N5ihululvvg8zRSRo4EaY-oPCinku4o9FM=w240-h480-rw",
-                "nativeButtonTitle": "Go to Store"
             }
         ],
         "localInterstitial": [
             {
-                "interstitialLink": "https://play.google.com/store/apps/details?id=com.protectstar.antispy.android",
-                "interstitialImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
-                "interstitialTitle": "Anti Spy Detector - Spyware",
-                "interstitialSubTitle": "Android devices have become an integral part of our lives. As our use of android devices grows, so the risk of spyware & malware attacks increases.",
-                "interstitialLogo": "https://play-lh.googleusercontent.com/-RgY7W2BOari84d9BhoshEFx42LKoKncmkVGhCOiyfRzDYv6ic28Qzv913BGrsTB0Bg=w240-h480-rw",
+                "interstitialLink": "",
+                "interstitialImage": "",
+                "interstitialTitle": "",
+                "interstitialSubTitle": "",
+                "interstitialLogo": "",
                 "interstitialButtonTitle": "Go to store"
-            },
-            {
-                "interstitialLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
-                "interstitialImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
-                "interstitialTitle": "Master Speed Test Fast",
-                "interstitialSubTitle": "Typing Master application helps to how fast you with a typing with different typing test. Choose small & large paragraph given here.",
-                "interstitialLogo": "https://play-lh.googleusercontent.com/SY4YQwnuxGhxUxCSlSRyflqxLdk6Npk6-N5ihululvvg8zRSRo4EaY-oPCinku4o9FM=w240-h480-rw",
-                "interstitialButtonTitle": "Install"
             }
         ],
         "localOpen": [
             {
-                "appOpenLink": "https://play.google.com/store/apps/details?id=com.protectstar.antispy.android",
-                "appOpenImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
-                "appOpenTitle": "Anti Spy Detector - Spyware",
-                "appOpenSubTitle": "Android devices have become an integral part of our lives. As our use of android devices grows, so the risk of spyware & malware attacks increases.",
-                "appOpenLogo": "https://play-lh.googleusercontent.com/-RgY7W2BOari84d9BhoshEFx42LKoKncmkVGhCOiyfRzDYv6ic28Qzv913BGrsTB0Bg=w240-h480-rw",
+                "appOpenLink": "",
+                "appOpenImage": "",
+                "appOpenTitle": "",
+                "appOpenSubTitle": "",
+                "appOpenLogo": "",
                 "appOpenButtonTitle": "Go to store"
-            },
-            {
-                "appOpenLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
-                "appOpenImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
-                "appOpenTitle": "Master Speed Test Fast",
-                "appOpenSubTitle": "Typing Master application helps to how fast you with a typing with different typing test. Choose small & large paragraph given here.",
-                "appOpenLogo": "https://play-lh.googleusercontent.com/SY4YQwnuxGhxUxCSlSRyflqxLdk6Npk6-N5ihululvvg8zRSRo4EaY-oPCinku4o9FM=w240-h480-rw",
-                "appOpenButtonTitle": "Install"
             }
         ]
     },
