@@ -5,7 +5,7 @@
     "dataAds": {
         "adsOnOff": true,
         "isTestMode": false,
-        "isConsentMsgShow": false,
+        "isConsentMsgShow": true,
         "isBackInterstitialShow": false,
         "adsTypeOpenServer": "google",
         "adsTypeBannerServer": "google",
