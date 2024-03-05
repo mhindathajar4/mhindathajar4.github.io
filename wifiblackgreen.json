@@ -12,7 +12,7 @@
         "adsTypeNativeServer": "google",
         "adsTypeInterstitialServer": "google",
         "openAdsTimer": 15000,
-        "interstitialClick": 3,
+        "interstitialClick": 2,
         "randomAdType": "google,custom",
         "nativeTheme": "custom",
         "googleBannerId": "/21833905170,23012857036/Banner_cctv.live_banner_DU",
