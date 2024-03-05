@@ -85,7 +85,7 @@
         "ip_monitor_screen_native": true,
         "camara_manual_screen_native": true,
         "recent_screen_banner": false,
-        "home_screen_content": "<h6>Wifi Camera is a free app that can use your smartphone/tablet as a Cloud Security Camera / Baby Monitor. You can save the cost of buying an IP camera / Baby Monitor. Limited features & cloud storage are included for free. If you need cloud recording, you can order a low-cost cloud recording service plan.</h6>",
+        "home_screen_content": "<h6>Wifi Camera is a free app that can use your smartphone/tablet as a Cloud Security Camera / Baby Monitor. You can save the cost of buying an IP camera / Baby Monitor.</h6>",
         "ocr_screen_content": "",
         "isLiveUrlScreen": true,
         "main_list": [
