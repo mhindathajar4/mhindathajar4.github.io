@@ -35,7 +35,7 @@
     "vungleNativeId": "your_vungle_native_id",
     "nativePerItem": "",
     "publisherId": "",
-    "privacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "privacyPolicy": "mhindathajar4.github.io/privacy_policy.html",
     "localPrivacyPolicy": "",
     "localBanner": [
       {
@@ -75,7 +75,7 @@
     ]
   },
   "data": {
-    "appLive": true,
+    "appLive": false,
     "home_screen_native": true,
     "add_device_screen_native": false,
     "dvr_type_screen_native": false,
