@@ -75,7 +75,7 @@
     ]
   },
   "data": {
-    "appLive": true,
+    "appLive": false,
     "home_screen_native": true,
     "add_device_screen_native": false,
     "dvr_type_screen_native": false,
@@ -87,7 +87,7 @@
     "recent_screen_banner": false,
     "home_screen_content": "<h6>QR code scanning APP for Android devices that also supports scanning and creating QR codes and barcodes in various formats.You can create various QR codes and barcodes, such as contacts, products, URL, Wi-Fi, text, E-mail</h6>",
     "ocr_screen_content": "",
-    "isLiveUrlScreen": true,
+    "isLiveUrlScreen": false,
     "main_list": [
       {
         "id": "1",
