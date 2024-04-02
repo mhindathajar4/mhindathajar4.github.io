@@ -3,9 +3,9 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "adsOnOff": false,
+    "adsOnOff": true,
     "isTestMode": false,
-    "isConsentMsgShow": false,
+    "isConsentMsgShow": true,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
     "adsTypeBannerServer": "google",
@@ -15,10 +15,10 @@
     "interstitialClick": 3,
     "randomAdType": "google,custom",
     "nativeTheme": "custom",
-    "googleBannerId": "your_google_banner",
-    "googleInterstitialId": "your_google_interstitial",
-    "googleNativeId": "your_google_native",
-    "googleAppOpenId": "your_app_open_id",
+    "googleBannerId": "/21753324030,23059100595/camera.app.v380pro.macro.video.ip.live_Banner",
+    "googleInterstitialId": "/21753324030,23059100595/camera.app.v380pro.macro.video.ip.live_Interstitial",
+    "googleNativeId": "/21753324030,23059100595/camera.app.v380pro.macro.video.ip.live_Native",
+    "googleAppOpenId": "/21753324030,23059100595/camera.app.v380pro.macro.video.ip.live_AppOpen",
     "facebookBannerId": "your_facebook_banner_id",
     "facebookInterstitialId": "your_facebook_inter_id",
     "facebookNativeId": "your_facebook_native_id",
@@ -75,7 +75,7 @@
     ]
   },
   "data": {
-    "appLive": false,
+    "appLive": true,
     "home_screen_native": true,
     "add_device_screen_native": false,
     "dvr_type_screen_native": false,
@@ -87,7 +87,7 @@
     "recent_screen_banner": false,
     "home_screen_content": "<h6>QR code scanning APP for Android devices that also supports scanning and creating QR codes and barcodes in various formats.You can create various QR codes and barcodes, such as contacts, products, URL, Wi-Fi, text, E-mail</h6>",
     "ocr_screen_content": "",
-    "isLiveUrlScreen": false,
+    "isLiveUrlScreen": true,
     "main_list": [
       {
         "id": "1",
